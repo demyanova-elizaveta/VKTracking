@@ -153,8 +153,8 @@ def update_graph(get_comments, input_ids, input_keywords_posts, input_keywords_c
                             filtered_posts.add((comment[0],
                                                 comment[1],
                                                 comment[7],
-                                                # comment[2],
-                                                comment[3],
+                                                comment[2],
+                                                # comment[3],
                                                 comment[4],
                                                 # comment[5],
                                                 comment[6]))
